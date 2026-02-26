@@ -17,10 +17,6 @@ With VGA default palette:<br/>
 <img src="images/image-vga.png" /><br/>
 </p>
 
-Compile on Linux/Windows:
+Compile on Linux/Windows: nasm -fobj -o girl.obj girl.asm
 
-  nasm -fobj -o girl.obj girl.asm
-
-Link with TLINK (DosBOX):
-
-  tlink /x girl.obj, girl.exe
+Link with TLINK (DosBOX): tlink /x girl.obj, girl.exe
