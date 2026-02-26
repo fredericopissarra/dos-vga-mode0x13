@@ -1,10 +1,14 @@
 The image.tga must be 320x200 256-color indexed and top-left origin.
 
-Original image: ![original](./images/original.png).
+Original image: 
+![original](images/original.png).
 
 Rescaled images: 320x200
-With custom palette: ![custom](./images/custom.png)
-With VGA default palette: ![vgadefault](./images/vga.png)
+
+With custom palette:
+![custom](images/image.png)
+With VGA default palette:
+![vgadefault](images/image-vga.png)
 
 Compile on Linux/Windows:
 
